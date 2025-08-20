@@ -6,4 +6,4 @@ Another testing
 
 One more testing
 
-Anotehr one
+Another one
